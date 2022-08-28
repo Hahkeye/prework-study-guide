@@ -24,11 +24,17 @@ how to download via github[show how to download via github](assets/download.png)
 
 ## License
 
-## Badges
+MIT Licenses
 
+## Badges
+![some badge](https://img.shields.io/github/license/Hahkeye/prework-study-guide)
 ## Features
 
+Demostrates the use of basic html and css features. And basic JavaScript with flow control and functions
+
 ## How to Contribute
+
+Its really easy to contribue. You can just for the repo make your changes and then make a pull request.
 
 ## Tests
 
